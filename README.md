@@ -1,1 +1,1 @@
-# -Plataforma-de-rede-social-em-JAVA
+Algo bem básico, ainda vai ser melhorado!
